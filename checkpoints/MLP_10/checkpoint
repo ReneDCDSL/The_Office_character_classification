@@ -1,0 +1,2 @@
+model_checkpoint_path: "MLP_10_TheOffice10"
+all_model_checkpoint_paths: "MLP_10_TheOffice10"
